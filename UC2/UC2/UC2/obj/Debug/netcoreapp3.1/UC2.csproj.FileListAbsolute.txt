@@ -1,0 +1,13 @@
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.exe
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.deps.json
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.json
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.dev.json
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.dll
+G:\Learning Git\Assignments\UC2\UC2\UC2\bin\Debug\netcoreapp3.1\UC2.pdb
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.csprojAssemblyReference.cache
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfoInputs.cache
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.AssemblyInfo.cs
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileInputs.cache
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.dll
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.pdb
+G:\Learning Git\Assignments\UC2\UC2\UC2\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache
