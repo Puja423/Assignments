@@ -6,22 +6,26 @@ namespace UC2
     {
         static void Main(string[] args)
         {
-            int IS_FULL_TIME = 1;
+            int Full_time = 1;
+            int PART_TIME = 1;
             int EMP_PER_HOUR = 20;
             int empHrs = 0;
             int empWage = 0;
             Random random = new Random();
             int empCheck = random.Next(0, 2);
-            if (empCheck == IS_FULL_TIME)
+            if (empCheck == Full_time)
             {
                 empHrs = 8;
+                Console.WriteLine(("fulltime wages:" + empHrs * EMP_PER_HOUR);
+            }
+            else if (empHrs <= 8)
+            {
+                Console.WriteLine("parttime wage:" + empHrs * EMP_PER_HOUR);
             }
             else
-            {
                 empHrs = 0;
-            }
-            empWage = empHrs * EMP_PER_HOUR;
-            Console.WriteLine("empWage:" +empWage);
+            Console.WriteLine("sorry you are not capable");
+          
             
 
         }
