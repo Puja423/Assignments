@@ -1,0 +1,13 @@
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.exe
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.deps.json
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.runtimeconfig.json
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.runtimeconfig.dev.json
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.dll
+G:\Learning Git\Assignments\UC5\UC5\UC5\bin\Debug\netcoreapp3.1\UC5.pdb
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.csprojAssemblyReference.cache
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.AssemblyInfoInputs.cache
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.AssemblyInfo.cs
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.csproj.CoreCompileInputs.cache
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.dll
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.pdb
+G:\Learning Git\Assignments\UC5\UC5\UC5\obj\Debug\netcoreapp3.1\UC5.genruntimeconfig.cache
