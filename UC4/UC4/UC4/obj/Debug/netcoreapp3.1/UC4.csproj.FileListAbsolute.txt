@@ -1,0 +1,4 @@
+G:\Learning Git\Assignments\UC4\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.csprojAssemblyReference.cache
+G:\Learning Git\Assignments\UC4\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfoInputs.cache
+G:\Learning Git\Assignments\UC4\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.AssemblyInfo.cs
+G:\Learning Git\Assignments\UC4\UC4\UC4\obj\Debug\netcoreapp3.1\UC4.csproj.CoreCompileInputs.cache
